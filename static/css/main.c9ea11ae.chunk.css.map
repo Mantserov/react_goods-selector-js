@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,aAGC,iCAAA,CAAA,yBAA0B","file":"main.c9ea11ae.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.delete.ml-3 {\n  transform: translateY(50%);\n}\n"]}
